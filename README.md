@@ -11,3 +11,6 @@ ya know, cus of amount of objects :PPPPPPP
 So, this little README has a guide on how to use the other ".md" files.....                                                                       
 i think you know where im going with this                                                                                 
 *inhale*    
+
+### List of Objects [LIST.md](
+This file is a list of objects in the Solar System model.
