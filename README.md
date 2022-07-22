@@ -12,5 +12,19 @@ So, this little README has a guide on how to use the other ".md" files.....
 i think you know where im going with this                                                                                 
 *inhale*    
 
-### List of Objects [LIST.MD](main/LIST.md)
-This file is a list of objects in the Solar System model.
+### List of Objects [LIST.MD](LIST.md)
+This file is a list of objects in the Solar System model.                                                           
+Before you use it, think about what you want to see.
+
+#### How to use the Object Count
+The **Object Count** is the first section in the file [LIST.MD](LIST.md).
+To use:           
+1. Use the table to find the type of object that you wish to find the number of.
+That's literally it. Not sure why you would need this.
+
+#### How to use the Object List
+Ah, here we go. The main part of the file is the **Object List**, a large list of all the objects in the solar system scale model. This can be
+used to see if a certain object has been added to the model.        
+To use:       
+1. Find the desired object category from the Model List. In this example, we will find the moon Ganymede.
+2. 
