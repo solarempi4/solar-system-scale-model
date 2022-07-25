@@ -12,7 +12,7 @@ So, this little README has a guide on how to use the other ".md" files.....
 i think you know where im going with this                                                                                 
 *inhale*    
 
-### List of Objects [LIST.MD](LIST.md)
+### [List](LIST.md) of Objects
 This file is a list of objects in the Solar System model.                                                           
 Before you use it, think about what you want to see.
 
@@ -20,11 +20,36 @@ Before you use it, think about what you want to see.
 The **Object Count** is the first section in the file [LIST.MD](LIST.md).
 To use:           
 1. Use the table to find the type of object that you wish to find the number of.
-That's literally it. Not sure why you would need this.
+That's literally it. Not sure why you would need this.      
+There is also a link to the specified list of objects.
 
 #### How to use the Object List
 Ah, here we go. The main part of the file is the **Object List**, a large list of all the objects in the solar system scale model. This can be
 used to see if a certain object has been added to the model.        
 To use:       
 1. Find the desired object category from the Model List. In this example, we will find the moon Ganymede.
-2. 
+2. Click on the link that goes to the list of the specified type of object. So, we will click the [MOON LIST](listmoons.md).
+3. Go through the chapter viewer and select the object from a category. Since Ganymede is from Jupiter, it will be found in the list of Jupiter's moons.
+4. Have fun with these statistics!
+
+### [Changelog](changelog.md) and Updates
+This page is the changelog for the solar system scale model's progress. In it, we will address what has been added or removed or changed in the latest update of the 
+Solar System Scale Model.
+
+#### How to use the [Changelog](changelog.md)
+1. Go to the update in the .md file in the chapters.
+2. **R e a d .**
+
+### [Credits](credits.md) Page
+The credits page is pretty straightforward, it explains the contributions of people that have requested models or have directly helped.
+1. just read the text :P
+
+## Submit a model!
+You can also help contribute to the model with a form on our website at https://solarempi4.solarorbit.net/      
+Simply fill out the form and submit it to us, and we will DM you on Discord about the status of the item and whether or not it will be added to the next update.       
+Here are the guidelines on what objects can be submitted and what to put on the form:      
+1. **Stay on topic.** We don't like when people send random things through this form, it is specifically for submitting an object to the Solarempi4 Solar System Scale Model.
+2. **All chat rules on Solarempi4 apply.** You can see the full list of rules on our Discord: https://discord.gg/CEnFMaGEXt. Anything that breaks our rules will be disregarded and the person who submitted the form will be shortly punished.
+
+## Thank you for coming here and downloading our world file!
+We hope you have a good time with your world download! Thank you so much again for downloading!
