@@ -51,5 +51,14 @@ Here are the guidelines on what objects can be submitted and what to put on the 
 1. **Stay on topic.** We don't like when people send random things through this form, it is specifically for submitting an object to the Solarempi4 Solar System Scale Model.
 2. **All chat rules on Solarempi4 apply.** You can see the full list of rules on our Discord: https://discord.gg/CEnFMaGEXt. Anything that breaks our rules will be disregarded and the person who submitted the form will be shortly punished.
 
+## Units of Measurement
+These units of measurement were used heavily while making both the world download and the server's model.     
+1. **Scale Model Constant** **$S_f$** The constant multiplied by the scale distance in km to get the scaled size. Defined as $\frac{301}{1391400}$ which is about `0.000216328`. It is also known as the scaled size of 1 km in the model, expressed in meters.
+2. **Scale AU** **$S_{AU}$** The constant obtained by mulitplying the **Scale Model Constant** **$S_f$** by `149597870.7`, the distance between Earth and the Sun in real life, or 1 **astronomical unit**. Defined as $S_f(149597870.7 km)$ which is about `32,362.339`. It is also known as the scaled size of an AU in the model expressed in meters.
+3. **Particle Unit** **$\frac{S_f}{8}$**. The constant obtained by dividing the scaled size of a model by 8. Used in making the PARTICLE MOONS OF THE SERVER MODEL. Defined as **$\frac{S_s - \frac{P_s}{2}}{8}$** where $P_s$ is the size of the particle used for the object. Does not need to be added if the particle size is less than 0.001.
+4. **Armor Stand Height With Player Head with Outer Layer** **$2.06605 m$** The constant obtained by measuring the height from the bottom of an armor stand to the highest point on the outer layer of the player head it wears and defining the size in m, which is 2.06605 m.
+5. **Height of Player Head with Outer Layer on an Armor Stand** **$0.655 m$** The constant obtained by measuring the exact height of the player head with an outer layer on an armor stand. This size is defined as 0.655 m.
+6. **Distance from the Bottom of an armor stand to the Center of any headgear** **$1.7383 m$** The constant obtained by subtracting the size of a player head with outer layer on an armor stand from the height of an armor stand with a player head on top: $2.06605 - 0.655 = 1.7383$.
+
 ## Thank you for coming here and downloading our world file!
 We hope you have a good time with your world download! Thank you so much again for downloading!
