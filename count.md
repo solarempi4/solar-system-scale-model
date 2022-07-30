@@ -1,4 +1,4 @@
-# Solarempi4: Solar System Scale Model List
+# Solarempi4: Solar System Scale Model Count 
 Your go-to list for all the models in Solarempi4's Solar System Scale Model!
 
 ## Model Count
